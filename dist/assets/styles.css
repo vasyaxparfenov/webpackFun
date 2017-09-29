@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+.myForm {
+    padding:20px 25% 20px 25%;
+}
+form{
+    padding:0 10% 0 10%
+}
+em { float:right; color:#E05C65; padding-left:10px;}
+.error input, .error select, .error textarea {background-color:#E3C3C5;}
+.error ::-webkit-input-placeholder {color: #999}
+.error ::-moz-placeholder  {color: #999}
+.error :-moz-placeholder  {color: #999}
+.error :ms-input-placeholder  {color: #999}.card{
+    border-style: solid;
+    border-width: 0.5rem;
+}
+h3{
+    text-align: center;
+}
+p{
+    padding-left: 10px;
+}
